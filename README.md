@@ -1,6 +1,6 @@
 # Java-Practice
 
-<Chapter 5>
+## Chapter 5
 1. classpart
 - 객체지향 프로그래밍의 기초와 클래스 생성
 
@@ -22,7 +22,7 @@
 7. staticpart
 - static 변수, 메서드 활용, 싱글턴 패턴 활용
 
-<Chapter 6>
+## Chapter 6
 1. arraypart
 - 일반 자료형 배열 활용
 
@@ -35,7 +35,7 @@
 4. ArrayListPart
 - ArrayList 활용
 
-<Chapter 7>
+## Chapter 7
 1. inheritance
 - 상속, 상속에서의 클래스 생성, 형 변환 활용
 - 메서드 오버라이딩
@@ -44,19 +44,19 @@
 - 다형성 
 - 다운 캐스팅과 instanceof 활용
 
-<Chapter 8>
+## Chapter 8
 1. abstractex
 - 추상클래스 활용
 
 2. template
 - 추상클래스 응용 - 템플릿 메서드
 
-<Chapter 9>
+## Chapter 9
 1. interfaceex, scheduler
 - 인터페이스 활용
 - 인터페이스를 활용한 다형성 구현
 
-<Chapter 10>
+## Chapter 10
 1. object
 - Object 클래스 활용
 - equals, hashCode 메서드 활용
@@ -68,7 +68,7 @@
 - String 클래스 활용
 - StringBuilder 활용
 
-<Chapter 11>
+## Chapter 11
 1. generic
 - 제네릭 프로그래밍 활용
 
@@ -79,7 +79,7 @@
 - Set 인터페이스 구현 (HashSet, TreeSet)
 - Map 인터페이스 구현 (HashMap, TreeMap)
 
-<Chapter 12>
+## Chapter 12
 1. innerclass
 - 내부 클래스 활용
 - 인스턴스 내부 클래스
@@ -94,13 +94,13 @@
 - 스트림 활용
 - filter, map, reduce, foreach 메서드 활용
 
-<Chapter 13>
+## Chapter 13
 1. exception
 - try ~ catch ~ finally
 - AutoCloseable 인터페이스 활용
 - throw를 활용한 예외 미루기
 
-<Chapter 14>
+## Chapter 14
 1. inputstream
 - 입력 스트림 활용
 - FileInputStream 활용
@@ -132,7 +132,7 @@
 - RandomAccessFile 클래스 활용
 - 입출력 동시 가능
 
-<Chapter 15>
+## Chapter 15
 1. Thread
 - Thread 구현
 - Thread의 여러가지 메서드 활용
